@@ -1,0 +1,7 @@
+5 4
+4 1
+UBotSprite 0 3
+WallSprite 1 3
+WallSprite 4 0
+SpikeSprite 2 3 0 -1
+

@@ -1,0 +1,11 @@
+5 5
+4 0
+UBotSprite 0 4
+CausticSprite 0 1 1 0
+CausticSprite 0 3 1 0
+CausticSprite 1 4 0 -1
+CausticSprite 3 4 0 -1
+CheckpointSprite 0 0
+CheckpointSprite 4 4
+CheckpointSprite 2 2
+

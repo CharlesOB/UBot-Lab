@@ -1,0 +1,39 @@
+10 7
+9 0
+UBotSprite 0 0
+WallSprite 0 1
+WallSprite 0 2
+WallSprite 0 3
+WallSprite 0 4
+WallSprite 0 5
+WallSprite 0 6
+WallSprite 2 0
+WallSprite 2 1
+WallSprite 2 2
+WallSprite 2 3
+WallSprite 2 4
+WallSprite 2 6
+WallSprite 4 0
+WallSprite 4 1
+WallSprite 4 3
+WallSprite 4 4
+WallSprite 4 5
+WallSprite 4 6
+WallSprite 7 0
+WallSprite 7 1
+WallSprite 7 2
+WallSprite 7 3
+WallSprite 7 5
+WallSprite 7 6
+CausticSprite 1 0 0 1
+RoombaSprite 1 6 0 -1
+CheckpointSprite 1 6
+CheckpointSprite 1 0
+SpikeSprite 3 0 0 1
+SpikeSprite 5 0 1 0
+SpikeSprite 6 6 -1 0
+CheckpointSprite 5 3
+CheckpointSprite 6 3
+RoombaGeneratorSprite 9 6 4
+CheckpointSprite 8 6
+

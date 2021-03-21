@@ -1,0 +1,15 @@
+10 5
+9 2
+UBotSprite 0 2
+WallSprite 0 0
+WallSprite 0 1
+WallSprite 0 3
+WallSprite 0 4
+WallSprite 9 0
+WallSprite 9 1
+WallSprite 9 3
+WallSprite 9 4
+RoombaSprite 1 0 1 0
+RoombaSprite 1 4 0 -1
+RoombaSprite 8 4 -1 0
+RoombaSprite 8 0 0 1

@@ -1,0 +1,13 @@
+10 5
+9 2
+UBotSprite 0 2
+WallSprite 0 0
+WallSprite 0 1
+WallSprite 0 3
+WallSprite 0 4
+WallSprite 9 0
+WallSprite 9 1
+WallSprite 9 3
+WallSprite 9 4
+CausticSprite 3 0 0 1
+CausticSprite 6 4 0 -1

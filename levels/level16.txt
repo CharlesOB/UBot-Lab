@@ -1,0 +1,14 @@
+10 10
+2 2
+UBotSprite 9 9
+WallSprite 8 0
+WallSprite 8 1
+WallSprite 8 2
+WallSprite 8 3
+WallSprite 8 4
+WallSprite 8 6
+WallSprite 8 7
+WallSprite 8 8
+WallSprite 8 9
+SpikeGeneratorSprite 0 0
+

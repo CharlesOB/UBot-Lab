@@ -1,0 +1,18 @@
+7 5
+0 0
+UBotSprite 6 0
+RoombaGeneratorSprite 2 2
+WallSprite 2 1
+WallSprite 2 3
+WallSprite 1 2
+WallSprite 1 1
+WallSprite 1 3
+WallSprite 3 1
+WallSprite 3 3
+WallSprite 4 1
+WallSprite 4 3
+WallSprite 5 1
+WallSprite 5 3
+CheckpointSprite 0 4
+CheckpointSprite 6 4
+

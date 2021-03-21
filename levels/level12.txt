@@ -1,0 +1,5 @@
+15 15
+14 14
+UBotSprite 0 0
+RoombaGeneratorSprite 13 13
+

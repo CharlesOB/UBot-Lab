@@ -1,0 +1,4 @@
+5 5
+4 4
+UBotSprite 0 0
+RoombaSprite 2 3
