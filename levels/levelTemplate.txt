@@ -1,0 +1,9 @@
+width height
+finishX finishY
+UBotSprite startX startY
+OtherSprites [arguments...]
+OtherSprites [arguments...]
+etc.
+
+The max width is 10.
+The max height is 12.
