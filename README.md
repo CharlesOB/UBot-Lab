@@ -11,6 +11,8 @@ java Play
 Your character is the green circle. His name is UBot. You are his programmer; you must program him to win each level in the lab; don’t worry though—it’s easy. On the left of the screen you will see UBot and the current level. On the right, you will see the coding area and a run and reset button.
 
 ## Objective
+![UBot](https://user-images.githubusercontent.com/48743701/112224050-ff306500-8be7-11eb-85b4-dd06b77509ad.png)
+<br/>
 Navigate UBot to the blue space.
 
 ## Basic Coding
@@ -27,21 +29,35 @@ R
 D
 D
 ```
+![Full Screenshot](https://user-images.githubusercontent.com/48743701/112224091-0e171780-8be8-11eb-9646-d54abffa57a2.png)
+
 
 ## Some Game Components
 ### Walls
+![Walls](https://user-images.githubusercontent.com/48743701/112224148-24bd6e80-8be8-11eb-975a-c2a50c7b1e8b.png)
+<br/>
 Walls are grey. No character in the game can go through walls. Walls do not move.
 
 ### Roomba
+![Roomba](https://user-images.githubusercontent.com/48743701/112224185-3272f400-8be8-11eb-9d5c-5a3521ff79a3.png)
+<br/>
 A roomba is a red circle with a little yellow dot at its head to indicate where it is going. When a roomba encounters something it cannot pass through, it turns right. They are harmless, but they do sometimes get in the way.
 
 ### Spike
+![Spikes](https://user-images.githubusercontent.com/48743701/112224198-36067b00-8be8-11eb-8fe1-6bf5e26c22c8.png)
+<br/>
 Spikes are orange triangles that point in the direction they are travelling. If UBot hits one, he will be terminated. When a spike encounters something it cannot pass through, it turns around and immediately begins travelling in the opposite direction. Spikes can harm UBot. Be careful.
 
 ### Checkpoint
+![Checkpoint](https://user-images.githubusercontent.com/48743701/112224206-3868d500-8be8-11eb-8ee2-4a77fe99e231.png)
+<br/>
 A checkpoint is a small red circle. When UBot passes over the checkpoint, it turns green, meaning it is activated. When all checkpoints are activated, the finish square will change from red to blue. 
 
 ### Others
+![Spike Roomba Generator](https://user-images.githubusercontent.com/48743701/112224237-4159a680-8be8-11eb-8b86-4b22d06bf021.png)
+![Spike Roomba](https://user-images.githubusercontent.com/48743701/112224240-4159a680-8be8-11eb-9bb9-760901297cc4.png)
+![Generator](https://user-images.githubusercontent.com/48743701/112224241-41f23d00-8be8-11eb-84a2-8d938575a19f.png)
+<br/>
 Obviously these are not all the components of the game—there are more, but the ones listed are the main ones. Observe to figure out how new components operate. Experiment and find out which things are dangerous. Have fun with it.
 
 ## Comments
